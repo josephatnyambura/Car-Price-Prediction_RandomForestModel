@@ -30,7 +30,7 @@ The regression techniques listed below can be used to forecast the selling price
 The performance of linear models on data with outliers is low despite their relative simplicity and explainability. On non-linear datasets, linear models are ineffective. Random Forest Regressor and XGBoost Regressor are two nonlinear regression algorithms that do better in such situations at fitting the nonlinear data.
   </p></p>
 
-In my model building process I have used Random Forest Regressor model and the data used in training and testing is from <a href="https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho/" target="_blank">Kaggle.</a>
+In my model building process I have used `Random Forest Regressor` model and the data used in training and testing is from <a href="https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho/" target="_blank">Kaggle.</a>
  <p align="justify">
 Happy Coding! :nerd_face:
   </p></p>
